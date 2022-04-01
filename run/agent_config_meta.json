@@ -1,0 +1,286 @@
+{
+  "keys": "/Users/mengqingbo/work/remotebottles/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/mengqingbo/work/remotebottles/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/mengqingbo/work/remotebottles/config/config.default.js"
+    },
+    "root": "/Users/mengqingbo/work/remotebottles/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/mengqingbo/work/remotebottles/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/mengqingbo/work/remotebottles/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/mengqingbo/work/remotebottles/config/config.default.js",
+    "serverUrl": "/Users/mengqingbo/work/remotebottles/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/mengqingbo/work/remotebottles/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/mengqingbo/work/remotebottles/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/mengqingbo/work/remotebottles/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/mengqingbo/work/remotebottles/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/mengqingbo/work/remotebottles/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/mengqingbo/work/remotebottles/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/mengqingbo/work/remotebottles/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/mengqingbo/work/remotebottles/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/mengqingbo/work/remotebottles/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/mengqingbo/work/remotebottles/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/mengqingbo/work/remotebottles/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/mengqingbo/work/remotebottles/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/mengqingbo/work/remotebottles/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/mengqingbo/work/remotebottles/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/mengqingbo/work/remotebottles/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/mengqingbo/work/remotebottles/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/mengqingbo/work/remotebottles/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/mengqingbo/work/remotebottles/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/mengqingbo/work/remotebottles/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/mengqingbo/work/remotebottles/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/mengqingbo/work/remotebottles/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/mengqingbo/work/remotebottles/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/mengqingbo/work/remotebottles/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/mengqingbo/work/remotebottles/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/mengqingbo/work/remotebottles/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/mengqingbo/work/remotebottles/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/mengqingbo/work/remotebottles/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/mengqingbo/work/remotebottles/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/mengqingbo/work/remotebottles/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/mengqingbo/work/remotebottles/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/mengqingbo/work/remotebottles/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/mengqingbo/work/remotebottles/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/mengqingbo/work/remotebottles/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/mengqingbo/work/remotebottles/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/mengqingbo/work/remotebottles/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/mengqingbo/work/remotebottles/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/mengqingbo/work/remotebottles/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/mengqingbo/work/remotebottles/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/mengqingbo/work/remotebottles/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/mengqingbo/work/remotebottles/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/mengqingbo/work/remotebottles/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/mengqingbo/work/remotebottles/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/mengqingbo/work/remotebottles/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/mengqingbo/work/remotebottles/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/mengqingbo/work/remotebottles/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/mengqingbo/work/remotebottles/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/mengqingbo/work/remotebottles/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/mengqingbo/work/remotebottles/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/mengqingbo/work/remotebottles/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "name": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "version": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "description": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "main": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "dev": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "license": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "moment": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "strict": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "depth": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "env": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "level": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "logging": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "port": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/mengqingbo/work/remotebottles/node_modules/egg/config/config.default.js"
+}
